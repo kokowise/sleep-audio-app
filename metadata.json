@@ -1,0 +1,6 @@
+{
+  "name": "Nocturne — Sleep Audio & Ambient Player",
+  "description": "A minimalist dark-themed sleep audio and ambient sound player with Media Session lock-screen controls, smart fade-out sleep timer, and OLED Blackout Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
